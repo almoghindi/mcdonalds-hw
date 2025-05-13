@@ -1,0 +1,8 @@
+SQLAlchemy
+python-dotenv
+psycopg2
+fastapi
+numpy
+schedule
+pytest
+almebic
