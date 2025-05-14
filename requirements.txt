@@ -5,4 +5,4 @@ fastapi
 numpy
 schedule
 pytest
-almebic
+alembic
