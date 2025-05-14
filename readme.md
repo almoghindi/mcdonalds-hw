@@ -61,7 +61,8 @@ python -m venv .venv
 ```bash
 pip install -r requirements.txt
 ```
-3. Lunch the server:
+3. Create an .env file inside the root directory, fill it with your postgreSQL url
+4. Lunch the server:
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
