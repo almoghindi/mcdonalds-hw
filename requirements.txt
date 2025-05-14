@@ -6,3 +6,4 @@ numpy
 schedule
 pytest
 alembic
+uvicorn
